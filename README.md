@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kesaito09.github.io/portfolio/">
-    <img src="https://kesaito09.github.io/portfolio/assets/og.png" alt="Keisuke Saito — Portfolio" width="680">
+    <img src="https://kesaito09.github.io/portfolio/assets/og.png?v=2" alt="Keisuke Saito — Portfolio" width="680">
   </a>
 </p>
 
