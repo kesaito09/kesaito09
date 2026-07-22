@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://kesaito09.github.io/portfolio/">
-    <img src="https://kesaito09.github.io/portfolio/assets/og.png?v=2" alt="Keisuke Saito — Portfolio" width="680">
-  </a>
-</p>
-
-### Keisuke Saito — Software Engineer · 42Tokyo
+### Keisuke Saito — 42Tokyo
 
 2025年にプログラミングを始め、42Tokyo で C / C++ を中心に学んでいます。サーバーサイド開発、データ分析・機械学習、低レイヤに取り組んでいます。
 
