@@ -4,9 +4,9 @@
 
 - 🎓 **42Tokyo** — C / C++ / 低レイヤ
 - 🏆 **GCI 2026 Summer Compe** — 5,000人中 **3位**（東京大学 松尾研究室 主催）
-- 💼 **デジタルグリッド** — 気象データ配信 API の設計・実装（インターン）
+- 💼 **デジタルグリッド（インターン）** — 気象データ配信 API の設計・実装（2ヶ月）
 - 🤖 **フリーランス** — 企業の社内業務の AI 活用（AX 化）を支援
 
-`Python` · `FastAPI` · `pandas` · `scikit-learn` · `LightGBM` · `C` · `C++`
+`Python` · `FastAPI` · `pandas` · `scikit-learn` · `C` · `C++`
 
 🔗 **Portfolio → https://kesaito09.github.io/portfolio/**
